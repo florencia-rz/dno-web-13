@@ -84,7 +84,7 @@
         "nombre": "Travels Through South Indian Kitchens",
         "descripcion": "Libro de viajes de la autora Nao Saito, donde explora cocinas del sur de India. Se releva su nálisis espacial asociado a interacciones en el hogar, conexiones interpersonales y usos en relación a objetos y otros espacios. Además el libro tiene detalles gráficos que emulan el uso a modo de “libreta de anotaciones”.",
         "fecha": "2017",
-        "signo": "formal y conceptual",
+        "signo": "ambos",
         "foto": "kitchens-0.jpg",
         "fotos": ["kitchens-0.jpg" , "kitchens-1.jpg" , "kitchens-2.jpg"],
         "github": "https://github.com/florencia-rz"
