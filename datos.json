@@ -1,0 +1,111 @@
+[
+    {
+        "nombre": "Yo te cuido",
+        "descripcion": "Exposición textil que exploran temas de herencia y el conocimiento intergeneracional. Su relevancia para el proyecto tiene que ver con el mensaje sobre la habilidad manual del bordado heredado de las mujeres de la familia de la propia artista, pero tomando la téc- nica en esencia y aportando un sello estético personal.",
+        "fecha": "2023",
+        "signo": "conceptual",
+        "foto": "cuido-0.jpg",
+        "fotos": ["cuido-0.jpg", "cuido-1.jpg", "cuido-2.jpg"] ,
+        "github": "https://github.com/florencia-rz" 
+    },
+    {
+        "nombre": "Dear Data",
+        "descripcion": "Dear Data es una colección de postales que contienen datos registrados de la vida cotidiana de las diseñadoras de información Stefanie Posavec y Giorgia Lupi. Se destaca la forma de visualizar información cotidiana, que de otra manera sería invisible.",
+        "fecha": "2016",
+        "signo": "formal",
+        "foto": "data-0.jpg",
+        "fotos": ["data-0.jpg" , "data-1.jpg" , "data-2.jpg"],
+        "github": "https://github.com/florencia-rz" 
+    },
+    {
+        "nombre": "Demorándome",
+        "descripcion": "Proyecto de bordado en papel de la diseñadora Karen Barbé. Su relevancia para el proyecto es la puesta en valor de la lentitud y la demora, pero también la técnica de bordado en papelmutilizada",
+        "fecha": "2022",
+        "signo": "formal y conceptual",
+        "foto": "demora-0.jpg",
+        "fotos": ["demora-0.jpg" , "demora-1.jpg" , "demora-2.jpg"],
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Proyecto diccionario",
+        "descripcion": "Proyecto de la arquitecta Paz González, enfocado en la difusión de definiciones con sentido popular y de desarrollo comunitario, enfocada en encontrar pedazos de poesía en un formato formal como el diccionario o de crearla. Se destacan sus metodologías de creación de definiciones a través de palabras recortadas y la búsqueda de significados alejados de las definiciones oficiales, acercándose a simbolismos culturales. Además el trabajo gráfico desarrollado en los diferentes proyectos (digitalización de técnicas manuales como el uso de puntadas y bordados).",
+        "fecha": "2018",
+        "signo": "formal y conceptual",
+        "foto": "diccionario-0.jpg",
+        "fotos": ["diccionario-0.jpg" , "diccionario-1.jpg" , "diccionario-2.jpg"],
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Obras de Do-ho Suh",
+        "descripcion": "Obras de pequeña y gran escala que abordan la relación entre cuerpo, memoria y espacio. Su importancia en relación al proyecto de título tiene que ver con el uso del color envolvente entregando una sensación de “aura” de cada uno de los espacios y objetos, lo que podría ser interpretado como la emocionalidad de cada lugar.",
+        "fecha": "2022-24",
+        "signo": "conceptual",
+        "foto": "doho-0.jpg",
+        "fotos": ["doho-0.jpg" , "doho-1.jpg" , "doho-02.jpg"],
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Emocionario",
+        "descripcion": "Libro infantil de los autores C. Núñez Pereira y R. Valcárcel, enfocado en acompañar al niño/a en su conocimiento personal a través de las emociones. De este proyecto se destacada su hilo conductor construido con un recorrido emocional por diferentes formas de sentir, pero el camino del lector puede ser cualquiera: desde el inicio, centro, final o de la emoción que prefiera.",
+        "fecha": "2018",
+        "signo": "conceptual",
+        "foto": "emocionario-0.jpg",
+        "fotos": ["emocionario-0.jpg" , "emocionario-1.jpg" , "emocionario-2.jpg"],
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "The Human Touch",
+        "descripcion": "Marca de ropa desarrollada por Juliet Seger, que destaca por su concepto de slow fashion con visión crítica de la producción en masa evidenciada en su estética. Este proyecto se releva por ”Evidenciar lo invisible” a través de marcas de pintura que dejan huella del factor humano presente en la costura de sus prendas, valorando así el trabajo y conocimiento oculto detrás de la ropa.",
+        "fecha": "2020",
+        "signo": "conceptual",
+        "foto": "human-0.jpg",
+        "fotos": ["human-0.jpg" , "human-1.jpg" , "human-2.jpg"],
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Iconoclasistas",
+        "descripcion": "Colectivo conformado por Julia Risler y Pablo Ares. Se destacan por su enfoque crítico de las concepciones actuales de los espacios y sus simbolismo, además de sus metodologías de trabajo basadas en procesos participativos y el mapeo etnográfico que entrega como resultado visualizaciones gráficas de la información al término de las actividades.",
+        "fecha": "2006",
+        "signo": "formal y conceptual",
+        "foto": "iconoclasistas-0.jpg",
+        "fotos": ["iconoclasistas-0.jpg" , "iconoclasistas-1.jpg" , "iconoclasistas-2.jpg"],
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Relaros interespécies",
+        "descripcion": "Proyecto desarrollado por el Laboratorio de Biomateriales, Biofabricación y Buen Vivir de Valdivia. A través del bordado colectivo, se pretende construir historias personales que nos hacen reflexionar sobre nuestra relación con las especies no humanas. Se destaca el concepto de relaciones y la instancia participativa como forma de levantar información.",
+        "fecha": "2023",
+        "signo": "conceptual",
+        "foto": "interespecie-0.jpg",
+        "fotos": ["interespecie-0.jpg" , "interespecie-1.jpg" , "interespecie-2.jpg"],
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Travels Through South Indian Kitchens",
+        "descripcion": "Libro de viajes de la autora Nao Saito, donde explora cocinas del sur de India. Se releva su nálisis espacial asociado a interacciones en el hogar, conexiones interpersonales y usos en relación a objetos y otros espacios. Además el libro tiene detalles gráficos que emulan el uso a modo de “libreta de anotaciones”.",
+        "fecha": "2017",
+        "signo": "formal y conceptual",
+        "foto": "kitchens-0.jpg",
+        "fotos": ["kitchens-0.jpg" , "kitchens-1.jpg" , "kitchens-2.jpg"],
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "Pequeño Larousse ilustrado",
+        "descripcion": "Diccionario en español ilustrado y de carácter enciclopédico. Se destaca por sus definiciones ilustradas e incorporación de palabras “no oficiales”, bajo el criterio de que el uso popular es más relevante para el lector. Además, el tamaño y peso del diccionario comunica físicamente la importancia de la información que contiene.",
+        "fecha": "1973",
+        "signo": "conceptual",
+        "foto": "larousse-0.jpg",
+        "fotos": ["larousse-0.jpg" , "larousse-1.jpg" , "larousse-2.jpg"],
+        "github": "https://github.com/florencia-rz"
+    },
+    {
+        "nombre": "El archivo de la Soledad",
+        "descripcion": "Libro de la fotógrafa Justine Graham que reúne objetos textiles no comunes en este siglo, revividos a través de cianotipos. Se destaca por la presentación de los textiles como herencia familiar categorizadas en dos tipologías de objetos (creaciones e instrumentos de creación), dando paso a la interacción con el libro (“cubierta” tanto en la cubierta y como en la contra cubierta)",
+        "fecha": "2015",
+        "signo": "conceptual",
+        "foto": "soledad-0.jpg",
+        "fotos": ["soledad-0.jpg" , "soledad-1.jpg" , "soledad-2.jpg"],
+        "github": "https://github.com/florencia-rz"
+    }
+    
+]
